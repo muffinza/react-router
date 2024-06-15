@@ -1,0 +1,13 @@
+.blog-container {
+    width: 96%;
+    max-width: 1140px;
+    margin: 0 auto;
+    background: rgb(103, 102, 102);
+
+}
+
+.card{
+    color: black;
+    background: rgb(103, 102, 102);
+}
+
